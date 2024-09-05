@@ -3,8 +3,9 @@ The aim of this project is to conduct a comprehensive market analysis of the exi
 
 # Dataset
 Dataset taken from Vahan seva Website
-Data cleaning 
-•	Import data into Power Query
-•	Calculate the month and year from a given date
-•	Replace incorrect state values with the correct one
+
+# Data cleaning 
++ Import data into Power Query
+- Calculate the month and year from a given date
+* Replace incorrect state values with the correct one
 
